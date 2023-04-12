@@ -7,9 +7,6 @@
 //i hate to put std:: before every std func so imma just use it as a namespace
 using namespace std;
 
-//he is 512 bytes of zeros to overwrite the MBR xDDDDDDDDD
-
-
 int main(){
   // Declare an array of 512 bytes
   unsigned char arr[512];
